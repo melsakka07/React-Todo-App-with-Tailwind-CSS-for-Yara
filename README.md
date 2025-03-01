@@ -123,6 +123,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by [Your Name]</p>
+  <p>Made with ❤️ and ☕ by M. ElSakka for the one and only .. 💖Yara</p>
   <p>⭐ Star this repository if you found it useful! ⭐</p>
 </div>
